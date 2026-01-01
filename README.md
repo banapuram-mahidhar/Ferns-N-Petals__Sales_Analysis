@@ -4,6 +4,9 @@
 
 FNP (Ferns N Petals) is a gifting company offering products such as cakes, flowers, plants, sweets, soft toys, and personalized gifts for various occasions like birthdays, anniversaries, festivals, and special events.
 
+![image_alt](https://github.com/banapuram-mahidhar/Ferns-N-Petals__Sales_Analysis/blob/7af07e044ff892f927e2b7f30d21862af6012554/FNP%20Sales_Analysis.png)
+
+
 This project focuses on analyzing sales performance to uncover revenue trends, customer behavior, product performance, and operational insights.
 
 
