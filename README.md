@@ -103,6 +103,10 @@ Average Delivery Time: 5.53 days
 
 **Insight: Festival-focused campaigns are crucial for revenue growth.**
 
+
+![image_alt](https://github.com/banapuram-mahidhar/Ferns-N-Petals__Sales_Analysis/blob/2490e9d225b822552d9ee7b8d007d9c3630d1f9b/Sales_analysis(Dashboard).png)
+
+
 ### Interactive Features
 
 - Occasion Slicer allows users to filter and analyze revenue for specific events.
