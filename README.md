@@ -148,3 +148,8 @@ It highlights trends, customer behavior, and revenue drivers, helping businesses
 
 **Data Cleaning & Data Visualization**
 
+## Final Note
+
+**This project is part of my continuous learning journey as a Data Analyst.
+I welcome feedback, suggestions, and collaboration opportunities.**
+
